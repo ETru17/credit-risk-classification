@@ -37,3 +37,6 @@ It appears the training model did better, but only slightly. Both models were no
 * I think it is more important to be able to accurately assess the "1" or high-risk, because we could be missing out on candidates who do qualify and could need the loan. 
 
 I think both models need more data to accurately and confidently assess the "high-risk" candidates. 
+
+## Support
+I reference the scikit learn website (https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) to complete this project and the in class activities. 
